@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/mmstore/static/css/main.a31dae89.css",
+    "main.js": "/mmstore/static/js/main.f4b2e35d.js",
+    "static/js/453.c7715026.chunk.js": "/mmstore/static/js/453.c7715026.chunk.js",
+    "index.html": "/mmstore/index.html",
+    "main.a31dae89.css.map": "/mmstore/static/css/main.a31dae89.css.map",
+    "main.f4b2e35d.js.map": "/mmstore/static/js/main.f4b2e35d.js.map",
+    "453.c7715026.chunk.js.map": "/mmstore/static/js/453.c7715026.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a31dae89.css",
+    "static/js/main.f4b2e35d.js"
+  ]
+}
